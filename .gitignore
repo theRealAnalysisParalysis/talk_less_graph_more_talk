@@ -5,3 +5,4 @@
 /outputs/graph_phrase_only.graphml
 /outputs/undirected_adj_matrix_motif_1.graphml
 /outputs/undirected_adj_matrix_motif_2.graphml
+/outputs/adj_matrix_no_motif.tsv
